@@ -1,0 +1,8 @@
+method,file,original_size,compressed_size,conclusion
+ppm,test_1,13,25,OK
+ppm,test_2,13095,6647,OK
+ppm,test_3,226304,163317,OK
+ppm,test_4,0,5,OK
+ppm,test_5,1000000,,TL1
+ppm,test_6,1000000,,TL1
+ppm,test_7,1000000,,TL1
